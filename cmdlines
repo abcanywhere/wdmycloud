@@ -1,0 +1,1 @@
+rsync -av --progress --delete folder1/ folder2  (mirror folder1 [endwith /] > folder2)
