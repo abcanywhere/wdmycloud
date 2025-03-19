@@ -1,3 +1,5 @@
+Firmware: 2.42.115  Serial: WCC4N2NVJNSU
+
 [GUIDE] Debrick a completely dead MyCloud
   https://community.wd.com/t/guide-debrick-a-completely-dead-mycloud/92253
 
