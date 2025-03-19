@@ -24,3 +24,5 @@ Firmware: 2.42.115  Serial: WCC4N2NVJNSU
   
 Where can I download a working disk image?
   https://community.wd.com/t/where-can-i-download-a-working-disk-image/247038
+
+https://github.com/mcmetrox/wdmycloud-gen2?tab=readme-ov-file
