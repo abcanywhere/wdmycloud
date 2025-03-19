@@ -1,5 +1,7 @@
 Firmware: 2.42.115  Serial: WCC4N2NVJNSU
-GLCR 	Glacier 	WD MyCloud (Gen2) 	Marvell Armada A375 (2x1.0 GHz) 	512 MB DDR3 	SPI, 1MB (U-Boot)
+
+<p>GLCR 	Glacier 	WD MyCloud (Gen2) 	Marvell Armada A375 (2x1.0 GHz) 	512 MB DDR3 	SPI, 1MB (U-Boot)</p>
+
 [ cat /proc/cpuinfo ]
 <div>
 <p>processor       : 1</p>
