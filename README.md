@@ -26,3 +26,5 @@ Where can I download a working disk image?
   https://community.wd.com/t/where-can-i-download-a-working-disk-image/247038
 
 https://github.com/mcmetrox/wdmycloud-gen2?tab=readme-ov-file
+
+<p>https://wd.hides.su/wd/Cloud_gen2/frimware/</p>
